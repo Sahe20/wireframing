@@ -57,3 +57,32 @@ Use Case: Finalizing UI flow and ensuring design alignment before moving to deve
 
 The wireframe linked is a high-fidelity wireframe of the ALx Airbnb redesign, as it is more detailed and colored, with layout, content structure, and user flow with detailed styling, color schemes, and structured text. It is close to the final design and intended for feedback validation before development starts.
 
+🛠️ Popular Wireframing Tools
+Wireframing tools help we designers and developers quickly create interface layouts and user flows. Here are some widely used tools in our industry:
+
+Figma - Recommended
+
+Adobe XD
+
+Balsamiq
+
+Sketch
+
+Lucidchart
+
+Draw.io (diagrams.net)
+
+🌟 Why Figma?
+Figma is a powerful, cloud-based design and prototyping tool that allows real-time collaboration and sharing. I think it is recommended for wireframing because:
+
+✅ It’s free to start and runs entirely in the browser
+
+✅ Supports both low- and high-fidelity wireframes
+
+✅ Allows team members to comment directly on wireframes
+
+✅ Provides reusable components, templates, and plugins
+
+✅ Integrates easily with developer handoff tools and version history
+
+Figma helps bridge the gap between design and development by making the design process more transparent, collaborative, and efficient.
