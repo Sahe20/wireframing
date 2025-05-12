@@ -86,3 +86,26 @@ Figma is a powerful, cloud-based design and prototyping tool that allows real-ti
 ✅ Integrates easily with developer handoff tools and version history
 
 Figma helps bridge the gap between design and development by making the design process more transparent, collaborative, and efficient.
+
+🚀 Benefits of Wireframing in Software Development
+Wireframing offers several practical benefits during the Software Development Lifecycle (SDLC):
+
+🧭 Guides the Design Process
+
+It provides a clear roadmap for layout and user experience decisions before visual design and coding begin.
+
+Example: Knowing that a booking system needs a confirmation screen helps prioritize that screen in both design and backend logic.
+
+💬 Enhances Team Communication
+
+Designers, developers, and stakeholders can all refer to the same visual blueprint.
+
+Example: A wireframe showing the “Book Now” button ensures everyone agrees on its placement and function before it’s built.
+
+💡 Encourages Early Feedback
+
+Teams can spot layout issues, missing features, or workflow problems early in the process.
+
+⚙️ Reduces Rework and Saves Time
+
+Developers build what’s already visualized and agreed upon, avoiding costly changes later.
